@@ -1,0 +1,85 @@
+<!--1-->
+<documents>
+    <myself>
+        <name>Jaspreet Singh</name>
+        <age>23</age>
+        <hobbies>Playing Badminton</hobbies>
+        <hobbies>Travelling</hobbies>
+        <hobbies>Singing</hobbies>
+    </myself>
+
+<!--2-->
+    <document>
+        <person>
+            <name>Jack Ma</name>
+            <age>43</age>
+            <hobbies>Acting</hobbies>
+            <hobbies>Dancing</hobbies>
+            <hobbies>Singing</hobbies>
+        </person>
+        <person>
+            <name>Harry</name>
+            <age>54</age>
+            <hobbies>Acting</hobbies>
+            <hobbies>Dancing</hobbies>
+            <hobbies>Singing</hobbies>
+        </person>
+        <person>
+            <name>Billa Daniel</name>
+            <age>47</age>
+            <hobbies>Acting</hobbies>
+            <hobbies>Dancing</hobbies>
+            <hobbies>Singing</hobbies>
+        </person>
+        <person>
+            <name>Harman</name>
+            <age>87</age>
+            <hobbies>Acting</hobbies>
+            <hobbies>Dancing</hobbies>
+            <hobbies>Singing</hobbies>
+        </person>
+        <person>
+            <name>Hitesh</name>
+            <age>23</age>
+            <hobbies>Acting</hobbies>
+            <hobbies>Dancing</hobbies>
+            <hobbies>Singing</hobbies>
+        </person>
+        <person>
+            <name>Aryan</name>
+            <age>54</age>
+            <hobbies>Acting</hobbies>
+            <hobbies>Dancing</hobbies>
+            <hobbies>Singing</hobbies>
+        </person>
+        <person>
+            <name>Binod Sha</name>
+            <age>55</age>
+            <hobbies>Acting</hobbies>
+            <hobbies>Dancing</hobbies>
+            <hobbies>Singing</hobbies>
+        </person>
+        <person>
+            <name>Tanmay Bhatt</name>
+            <age>34</age>
+            <hobbies>Acting</hobbies>
+            <hobbies>Dancing</hobbies>
+            <hobbies>Singing</hobbies>
+        </person>
+        <person>
+            <name>Samay Raina</name>
+            <age>43</age>
+            <hobbies>Acting</hobbies>
+            <hobbies>Dancing</hobbies>
+            <hobbies>Singing</hobbies>
+        </person>
+        <person>
+            <name>Jazzy</name>
+            <age>23</age>
+            <hobbies>Acting</hobbies>
+            <hobbies>Dancing</hobbies>
+            <hobbies>Singing</hobbies>
+        </person>
+    </document>
+</documents>
+
