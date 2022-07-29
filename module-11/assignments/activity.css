@@ -1,0 +1,40 @@
+.genre-block {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  background-color: #ea78ad;
+  color: white;
+  margin-top: 2rem;
+}
+
+.genre-block:not(:last-child) {
+  margin-bottom: 15px;
+}
+
+.genre-block > h2 {
+  padding-left: 5rem;
+  font-size: 2.5rem;
+}
+
+ol {
+  list-style: none;
+}
+
+.hide {
+  display: none;
+}
+
+#playlist {
+  display: flex;
+  padding: 2rem 1rem;
+}
+
+#playlist > a {
+  display: flex;
+  align-items: center;
+}
+
+#playlist > a > img {
+  padding-right: 5rem;
+}
+
